@@ -21,7 +21,7 @@
 title: Richard Ball
 email: rballe33@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Machine learning solutions for fraud detection.
+  Machine learning solutions for fraud detection
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ball_rs
